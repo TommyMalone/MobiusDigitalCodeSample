@@ -1,4 +1,4 @@
 # MobiusDigitalCodeSample
-A code sample from a game engine I wrote in graduate school. The repository to the full engine can be found [here](https://github.com/TommyMalone/FIEAGameEngine/tree/main).
+A code sample from a game engine I wrote in graduate school. The repository of the full engine can be found [here](https://github.com/TommyMalone/FIEAGameEngine/tree/main).
 
 This is a general representation of how I like to write code. A documentation generation tool was used with this project to produce documentation from the header comments. Much of the magic/core of the engine has to do with how Datum and Scope work together. If time/interest allows I might reccomend looking at [Scope.h](https://github.com/TommyMalone/FIEAGameEngine/blob/main/source/Library.Shared/Scope.h), [Scope.cpp](https://github.com/TommyMalone/FIEAGameEngine/blob/main/source/Library.Shared/Scope.cpp), and [ScopeTest.cpp](https://github.com/TommyMalone/FIEAGameEngine/blob/main/source/UnitTest.Library.Desktop/ScopeTest.cpp) in the full repository.
